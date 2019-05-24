@@ -1,0 +1,22 @@
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\bin\Debug\DifferentialEquations.exe.config
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\bin\Debug\DifferentialEquations.exe
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\bin\Debug\DifferentialEquations.pdb
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\obj\Debug\DifferentialEquations.csprojAssemblyReference.cache
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\obj\Debug\DifferentialEquations.Properties.Resources.resources
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\obj\Debug\DifferentialEquations.csproj.GenerateResource.cache
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\obj\Debug\DifferentialEquations.csproj.CoreCompileInputs.cache
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\obj\Debug\DifferentialEquations.exe
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\obj\Debug\DifferentialEquations.pdb
+D:\Для разработки\DifferentialEquations\DifferentialEquations\bin\Debug\DifferentialEquations.exe.config
+D:\Для разработки\DifferentialEquations\DifferentialEquations\bin\Debug\DifferentialEquations.exe
+D:\Для разработки\DifferentialEquations\DifferentialEquations\bin\Debug\DifferentialEquations.pdb
+D:\Для разработки\DifferentialEquations\DifferentialEquations\bin\Debug\Autofac.dll
+D:\Для разработки\DifferentialEquations\DifferentialEquations\bin\Debug\Autofac.pdb
+D:\Для разработки\DifferentialEquations\DifferentialEquations\bin\Debug\Autofac.xml
+D:\Для разработки\DifferentialEquations\DifferentialEquations\obj\Debug\DifferentialEquations.csprojAssemblyReference.cache
+D:\Для разработки\DifferentialEquations\DifferentialEquations\obj\Debug\DifferentialEquations.Properties.Resources.resources
+D:\Для разработки\DifferentialEquations\DifferentialEquations\obj\Debug\DifferentialEquations.csproj.GenerateResource.cache
+D:\Для разработки\DifferentialEquations\DifferentialEquations\obj\Debug\DifferentialEquations.csproj.CoreCompileInputs.cache
+D:\Для разработки\DifferentialEquations\DifferentialEquations\obj\Debug\DifferentialEquations.csproj.CopyComplete
+D:\Для разработки\DifferentialEquations\DifferentialEquations\obj\Debug\DifferentialEquations.exe
+D:\Для разработки\DifferentialEquations\DifferentialEquations\obj\Debug\DifferentialEquations.pdb

@@ -1,0 +1,26 @@
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\bin\Release\DifferentialEquations.exe.config
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\bin\Release\DifferentialEquations.exe
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\bin\Release\DifferentialEquations.pdb
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\obj\Release\DifferentialEquations.Properties.Resources.resources
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\obj\Release\DifferentialEquations.csproj.GenerateResource.cache
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\obj\Release\DifferentialEquations.csproj.CoreCompileInputs.cache
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\obj\Release\DifferentialEquations.exe
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\obj\Release\DifferentialEquations.pdb
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\obj\Release\DifferentialEquations.csprojAssemblyReference.cache
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\bin\Release\Autofac.dll
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\bin\Release\Autofac.pdb
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\bin\Release\Autofac.xml
+C:\Users\lotro\OneDrive\Документы\Visual Studio 2017\ЧисМет\DifferentialEquations\DifferentialEquations\obj\Release\DifferentialEquations.csproj.CopyComplete
+D:\Для разработки\DifferentialEquations\DifferentialEquations\bin\Release\DifferentialEquations.exe.config
+D:\Для разработки\DifferentialEquations\DifferentialEquations\bin\Release\DifferentialEquations.exe
+D:\Для разработки\DifferentialEquations\DifferentialEquations\bin\Release\DifferentialEquations.pdb
+D:\Для разработки\DifferentialEquations\DifferentialEquations\bin\Release\Autofac.dll
+D:\Для разработки\DifferentialEquations\DifferentialEquations\bin\Release\Autofac.pdb
+D:\Для разработки\DifferentialEquations\DifferentialEquations\bin\Release\Autofac.xml
+D:\Для разработки\DifferentialEquations\DifferentialEquations\obj\Release\DifferentialEquations.csprojAssemblyReference.cache
+D:\Для разработки\DifferentialEquations\DifferentialEquations\obj\Release\DifferentialEquations.Properties.Resources.resources
+D:\Для разработки\DifferentialEquations\DifferentialEquations\obj\Release\DifferentialEquations.csproj.GenerateResource.cache
+D:\Для разработки\DifferentialEquations\DifferentialEquations\obj\Release\DifferentialEquations.csproj.CoreCompileInputs.cache
+D:\Для разработки\DifferentialEquations\DifferentialEquations\obj\Release\DifferentialEquations.csproj.CopyComplete
+D:\Для разработки\DifferentialEquations\DifferentialEquations\obj\Release\DifferentialEquations.exe
+D:\Для разработки\DifferentialEquations\DifferentialEquations\obj\Release\DifferentialEquations.pdb

@@ -1,0 +1,11 @@
+D:\Для разработки\BoundaryTask\BoundaryTask\bin\Release\BoundaryTask.exe.config
+D:\Для разработки\BoundaryTask\BoundaryTask\bin\Release\BoundaryTask.exe
+D:\Для разработки\BoundaryTask\BoundaryTask\bin\Release\BoundaryTask.pdb
+D:\Для разработки\BoundaryTask\BoundaryTask\bin\Release\Autofac.dll
+D:\Для разработки\BoundaryTask\BoundaryTask\bin\Release\Autofac.pdb
+D:\Для разработки\BoundaryTask\BoundaryTask\bin\Release\Autofac.xml
+D:\Для разработки\BoundaryTask\BoundaryTask\obj\Release\BoundaryTask.csproj.CoreCompileInputs.cache
+D:\Для разработки\BoundaryTask\BoundaryTask\obj\Release\BoundaryTask.csproj.CopyComplete
+D:\Для разработки\BoundaryTask\BoundaryTask\obj\Release\BoundaryTask.exe
+D:\Для разработки\BoundaryTask\BoundaryTask\obj\Release\BoundaryTask.pdb
+D:\Для разработки\BoundaryTask\BoundaryTask\obj\Release\BoundaryTask.csprojAssemblyReference.cache
